@@ -28,7 +28,7 @@
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
-        <Filename Value="../../Downloads/terminal/gtk2term.pas"/>
+        <Filename Value="../terminal/gtk2term.pas"/>
         <UnitName Value="Gtk2Term"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="43"/>

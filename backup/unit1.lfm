@@ -5,7 +5,7 @@ object Form1: TForm1
   Width = 1204
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = 'Confgurador LoraMac (Versão  Final)'
+  Caption = 'CL - Configurador LoraMac'
   ClientHeight = 699
   ClientWidth = 1204
   Font.Height = -11
